@@ -1,0 +1,29 @@
+{
+    "getGems": "Get gems",
+    "undo": "Undo",
+    "destroy": "Destroy Tile",
+    "swap": "Swap Tiles",
+    "settings": "Settings",
+
+    "newGame": "New Game",
+    "continue": "Continue",
+    "music": "Music",
+    "musicOn": "Music: On",
+    "musicOff": "Music: Off",
+
+    "sound": "Sound",
+    "soundOn": "Sound: On",
+    "soundOff": "Sound: Off",
+
+    "title-game-over-1": "No available moves",
+    "title-game-over-2": "But you can continue:",
+
+    "dailyReward": "🎁 Your daily prize: <span class='reward-amount'>+{amount}</span> gems!",
+
+
+    "destroyInstruction": "Choose a tile to smash",
+    "swapInstruction": "Tap two tiles to swap them",
+
+    
+  }
+  

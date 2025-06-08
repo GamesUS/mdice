@@ -1,0 +1,1 @@
+window.sdkWrapper={sdk:null,platform:"none",player:null,isAuthorized:!1,isLocal:!1,async init(e){this.platform=e,this.isLocal=!0},gameReady(){},getLang:()=>"en",async setData(e){localStorage.setItem("progressDiceMerge",JSON.stringify(e))},async getData(){try{const e=localStorage.getItem("progressDiceMerge");return e?JSON.parse(e):{}}catch{return{}}},async submitScore(e,t){}};
